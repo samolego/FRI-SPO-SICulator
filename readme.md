@@ -11,7 +11,9 @@ Make sure you have Rust installed. Then, run the following command:
 cargo run --release
 ```
 
-You can load the object files via
+You can load the object files via "Load file" menu and navigate with `j` and `k` keys.
+
+Note: "Text display" is currently unused.
 
 ## How to build
 
